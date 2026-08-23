@@ -1,2 +1,1 @@
-scikit-learn
-argparse
+anthropic>=0.25.0
